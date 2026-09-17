@@ -1,8 +1,8 @@
 {
-    "versionCode":  1380,
-    "versionName":  "0.13.8",
-    "setupUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.13.8-1380/YOKRAFT_SETUP_0.13.8_1380.exe",
-    "sha256":  "ef8d17efe5f4804d778eea055b113c03b9b805994951c9ab2acd834a1701d007",
+    "versionCode":  1390,
+    "versionName":  "0.13.9",
+    "setupUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.13.9-1390/YOKRAFT_SETUP_0.13.9_1390.exe",
+    "sha256":  "fadefcd29240fa591d45bce01f72822268e009b61fd35cc846d0556ad9683110",
     "force":  false,
     "changelog":  [
                       "YOKRAFT 0.13.8",
