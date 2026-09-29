@@ -4,10 +4,10 @@
     "versionCode":  25490,
     "versionName":  "0.25.48.8",
     "packageUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.25.48.8-25490/YOKRAFT_UPDATE_0.25.48.8_25490.zip",
-    "packageSha256":  "e5f8659bbbef073bcb1723b1a098c47e37ef83c77aedb7a4d9806d1905ac7190",
-    "packageSize":  3438237,
+    "packageSha256":  "d8da91a0c86d117ee9cd243d4c154249945f7bd960ce41b1e8f93046237d1044",
+    "packageSize":  3448038,
     "setupUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.25.48.8-25490/YOKRAFT_SETUP_0.25.48.8_25490.exe",
-    "sha256":  "ef49752fc6c9f07b2c9fa1599cdd953974d80267a5b657796fdd3c1a55a2c588",
+    "sha256":  "1c0ecf534454697d91ece7bd325a6666935e291f3d2b050f223757580bb045cd",
     "force":  false,
     "changelog":  [
                       "YOKRAFT 0.25.48.8"
