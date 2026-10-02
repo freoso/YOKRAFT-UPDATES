@@ -1,15 +1,15 @@
 {
     "schema":  2,
     "packageKind":  "game_update",
-    "versionCode":  25490,
-    "versionName":  "0.25.48.8",
-    "packageUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.25.48.8-25490/YOKRAFT_UPDATE_0.25.48.8_25490.zip",
-    "packageSha256":  "89ad3aaa7d679bcf144b1e2d9297306d3905362abbe4b19cba7bd01efa2dba24",
-    "packageSize":  4023574,
-    "setupUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.25.48.8-25490/YOKRAFT_SETUP_0.25.48.8_25490.exe",
-    "sha256":  "d736fc21ab492e51421612ed6dea90327cc85f3ed7a5b823da937c6f24a2deee",
+    "versionCode":  25497,
+    "versionName":  "0.25.61.22",
+    "packageUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.25.61.22-25497/YOKRAFT_UPDATE_0.25.61.22_25497.zip",
+    "packageSha256":  "d3a3986809ce188e0a575c9f8f2a8fccae113b5bbb61b7644c4dd8e1afc289f0",
+    "packageSize":  4224860,
+    "setupUrl":  "https://github.com/freoso/YOKRAFT-UPDATES/releases/download/pc-v0.25.61.22-25497/YOKRAFT_SETUP_0.25.61.22_25497.exe",
+    "sha256":  "82e397200da88a2c3088e9d14bfb2b72c4d1c1d363d75df95144ead828c49c2e",
     "force":  false,
     "changelog":  [
-                      "YOKRAFT 0.25.48.8"
+                      "YOKRAFT 0.25.61.22"
                   ]
 }
